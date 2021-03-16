@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csuser/Desktop/cpsc223/hw9-rdurnil/array_list.h
+list.h
+/home/csuser/Desktop/cpsc223/hw9-rdurnil/list.h
+iostream
+-
+
+/home/csuser/Desktop/cpsc223/hw9-rdurnil/collection.h
+array_list.h
+/home/csuser/Desktop/cpsc223/hw9-rdurnil/array_list.h
+
+/home/csuser/Desktop/cpsc223/hw9-rdurnil/hw9_test.cpp
+iostream
+-
+string
+-
+gtest/gtest.h
+-
+array_list.h
+/home/csuser/Desktop/cpsc223/hw9-rdurnil/array_list.h
+rbt_collection.h
+/home/csuser/Desktop/cpsc223/hw9-rdurnil/rbt_collection.h
+
+/home/csuser/Desktop/cpsc223/hw9-rdurnil/list.h
+
+/home/csuser/Desktop/cpsc223/hw9-rdurnil/rbt_collection.h
+string.h
+/home/csuser/Desktop/cpsc223/hw9-rdurnil/string.h
+collection.h
+/home/csuser/Desktop/cpsc223/hw9-rdurnil/collection.h
+array_list.h
+/home/csuser/Desktop/cpsc223/hw9-rdurnil/array_list.h
+
